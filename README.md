@@ -15,6 +15,9 @@ Reg.No: 212224060203
 
 ## 1. Foundational Concepts of Generative AI
 
+<img width="985" height="411" alt="image" src="https://github.com/user-attachments/assets/01879db6-380b-43d5-8ed5-4a66280e87a7" />
+
+
 Generative AI refers to a category of artificial intelligence that is capable of creating new content such as text, images, audio, and video by learning patterns from existing datasets. Unlike traditional AI systems that focus on classification or prediction, generative AI produces original outputs.
 
 ### Key Concepts:
